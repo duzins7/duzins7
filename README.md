@@ -1,8 +1,8 @@
-#sobre mim
+# sobre mim
 
 ##editando perfil
 👍
--  👋 Hi, I’m @duzins7
+-  👋oi, sou @duzins7
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
